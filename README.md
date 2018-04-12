@@ -1,6 +1,6 @@
 # BiliVideo
 
-B站视频爬取
+B站视频爬取，存储下载地址到Excel
 
 1、纯python爬取
 
